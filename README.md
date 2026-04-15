@@ -16,8 +16,8 @@
 
 ## 📸 Screenshot
 
-(放圖片)
+![](./assets/image.png)
 
 ## ▶️ Demo
 
-(放影片連結)
+![](https://youtu.be/O-wB1xkVkHs)
